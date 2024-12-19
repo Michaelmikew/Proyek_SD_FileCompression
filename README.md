@@ -28,8 +28,6 @@ Yang mengerjakan : 1 orang(Sherleen)
 - Decompress the HuffmanBytes to the original form ( decomp method and convertByteInBit method)
 Yang mengerjakan : 2 orang(Jason & Joshua)
 
-- Creating the ByteNode and MinPriorityQueue class : 1 orang(Jason)
-
 # Class Diagram
 
 
