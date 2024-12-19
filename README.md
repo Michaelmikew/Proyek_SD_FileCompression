@@ -28,6 +28,8 @@ Yang mengerjakan : 1 orang(Sherleen)
 - Decompress the HuffmanBytes to the original form ( decomp method and convertByteInBit method)
 Yang mengerjakan : 2 orang(Jason & Joshua)
 
+-CompressImage and DecompressImage : 1 orang (Jason)
+
 # Class Diagram
 
 
